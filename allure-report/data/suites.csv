@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","17353","QA Demo Application Testing","chromium","2026-09-27","passed","2026-09-27","","UI_assignment.spec.ts","",""
+"","1543","API testing","chromium","2026-09-27","passed","2026-09-27","","automate_api.spec.ts","",""

@@ -1,0 +1,50 @@
+{
+  error: 'rate_limit_exceeded',
+  message: "You've hit the anonymous demo limit of 40 requests/day from this IP.",
+  signup: {
+    message: 'Create a free account for a higher daily limit, your own API key, persistent collections, and auth.',
+    url: 'https://app.reqres.in/sign-up?source=demo_rate_limit'
+  },
+  limit: 40,
+  remaining: 0,
+  reset_at: 1790553600,
+  resets_in: '8h 16m',
+  reset_explanation: 'Limits reset daily at midnight UTC',
+  _meta: {
+    powered_by: 'ReqRes',
+    docs_url: 'https://app.reqres.in/documentation',
+    upgrade_url: 'https://app.reqres.in/upgrade',
+    example_url: 'https://app.reqres.in/examples/notes-app',
+    variant: 'v1_b',
+    message: 'Too many requests. Back off, or use Projects for higher limits.',
+    cta: { label: 'Get started', url: 'https://app.reqres.in/upgrade' },
+    context: 'rate_limited'
+  }
+}
+Status Code: 429
+User ID: undefined
+Status code: 429
+{
+  error: 'rate_limit_exceeded',
+  message: "You've hit the anonymous demo limit of 40 requests/day from this IP.",
+  signup: {
+    message: 'Create a free account for a higher daily limit, your own API key, persistent collections, and auth.',
+    url: 'https://app.reqres.in/sign-up?source=demo_rate_limit'
+  },
+  limit: 40,
+  remaining: 0,
+  reset_at: 1790553600,
+  resets_in: '8h 16m',
+  reset_explanation: 'Limits reset daily at midnight UTC',
+  _meta: {
+    powered_by: 'ReqRes',
+    docs_url: 'https://app.reqres.in/documentation',
+    upgrade_url: 'https://app.reqres.in/upgrade',
+    example_url: 'https://app.reqres.in/examples/notes-app',
+    variant: 'v1_b',
+    message: 'Too many requests. Back off, or use Projects for higher limits.',
+    cta: { label: 'Get started', url: 'https://app.reqres.in/upgrade' },
+    context: 'rate_limited'
+  }
+}
+Status Code: 429
